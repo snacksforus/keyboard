@@ -1,0 +1,36 @@
+{
+  "actions" : [
+    {
+      "iconPath" : "/Applications/BBEdit.app",
+      "key" : "b",
+      "type" : "application",
+      "value" : "/Applications/BBEdit.app"
+    },
+    {
+      "key" : "c",
+      "type" : "application",
+      "value" : "/Applications/Google Chrome.app"
+    },
+    {
+      "key" : "f",
+      "type" : "folder",
+      "value" : "/Users/mss"
+    },
+    {
+      "key" : "g",
+      "type" : "application",
+      "value" : "/Applications/GoLand.app"
+    },
+    {
+      "key" : "s",
+      "type" : "application",
+      "value" : "/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app"
+    },
+    {
+      "key" : "t",
+      "type" : "application",
+      "value" : "/System/Applications/Utilities/Terminal.app"
+    }
+  ],
+  "type" : "group"
+}
